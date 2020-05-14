@@ -5,7 +5,11 @@ It allows you to pick your starting and ending location and view the process of 
 
 # Required libraries: 
 pygame
+
 sys
+
 math
+
 tkinter
+
 os
